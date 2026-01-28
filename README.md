@@ -1,16 +1,17 @@
-## Hi there 👋
+## 👋 Merhaba, ben Aish Malik
 
-<!--
-**aishmalik123/aishmalik123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tarayıcı tabanlı, ücretsiz ve kullanıcı dostu dijital araçlar geliştiriyorum.
 
-Here are some ideas to get you started:
+### 🔢 Zikirmatik Online
+Zikirmatik Online, günlük zikirlerinizi herhangi bir cihazdan kolayca ve doğru şekilde takip etmenizi sağlayan ücretsiz bir online zikir sayacıdır.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔗 **Resmi Web Sitesi:**  
+👉 https://zikirmatikonline.com.tr
+
+### ✨ Özellikler
+- Uygulama indirmeye gerek yok
+- Mobil ve masaüstü uyumlu
+- Sade ve dikkat dağıtmayan arayüz
+- %100 ücretsiz
+
+Pratik ve güvenilir bir online zikir sayacı arıyorsanız **Zikirmatik Online**’ı ziyaret edin.
